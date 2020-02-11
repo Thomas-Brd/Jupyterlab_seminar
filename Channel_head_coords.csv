@@ -1,0 +1,106 @@
+Channel head data points;;;;;
+Field site;Channel head ID (local descriptor);Northing;Easting;Universal Transverse Mercator (UTM) Zone;Collectors
+Feather River, CA;C1;4397056.32;649969.38;10N;Clubb
+Feather River, CA;C4;4397180.00;650450.00;10N;Clubb
+Feather River, CA;C7;4397117.24;650520.12;10N;Clubb
+Feather River, CA;C9;4397477.00;650253.00;10N;Clubb
+Feather River, CA;C10;4397901.00;649997.00;10N;Clubb
+Feather River, CA;C13;4389956.00;645906.00;10N;Clubb
+Feather River, CA;C14;4389777.00;645459.00;10N;Clubb
+Feather River, CA;C15;4389746.00;645315.00;10N;Clubb
+Feather River, CA;C17;4389250.00;645173.00;10N;Clubb
+Feather River, CA;C19;4389168.00;645168.00;10N;Clubb
+Feather River, CA;C20;4388963.00;644894.00;10N;Clubb
+Feather River, CA;C23;4389351.00;645702.00;10N;Clubb
+Feather River, CA;C25;4389289.00;645839.00;10N;Clubb
+Feather River, CA;C26;4389333.00;645876.00;10N;Clubb
+Feather River, CA;C27;4390821.00;644695.00;10N;Clubb
+Mid Bailey Run, OH;TX1Ch1;4365222.00;401334.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX1Ch2;4365258.00;401362.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX1Ch3;4365282.00;401312.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX2Ch1;4365342.00;401371.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX2Ch2;4365358.00;401366.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX2Ch7.1;4365442.00;401445.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX2Ch9;4365501.00;401510.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX2Ch10;4365711.00;401481.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX2Ch11;4365711.00;401469.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX2Ch12;4365701.00;401464.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX2Ch13;4365633.00;401398.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX2Ch15;4365620.00;401381.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX2Ch16;4365618.00;401377.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX3Ch1;4366368.00;400865.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX3Ch2;4366130.00;400742.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX3Ch3;4366158.00;400762.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX3Ch4;4366179.00;400771.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX3Ch5;4366210.00;400803.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX3Ch6;4366235.00;400825.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX3Ch7;4366330.00;400844.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX3Ch8;4366314.00;400817.00;17N;Slater/Hurst
+Mid Bailey Run, OH;TX3Ch10;4366427.00;400845.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T1Ch3;4365469.00;401661.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T1Ch4;4365388.00;401664.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T2Ch1;4365086.00;401612.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T2Ch2;4365120.00;401697.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T2Ch3;4365120.00;401713.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T2Ch4;4365127.00;401745.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T2Ch5;4365145.00;401799.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T2Ch7;4365109.00;401810.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T3Ch1;4364973.00;401813.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T3Ch2;4364948.00;401841.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T3Ch3;4364867.00;401823.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T3T2Ch1;4364784.00;401750.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T3T2Ch2;4364773.00;401780.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T3T2Ch3;4364750.00;401796.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T3T2Ch4;4364729.50;401794.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T3T2Ch5;4364670.50;401809.50;17N;Slater/Hurst
+Mid Bailey Run, OH;T3T2Ch6;4364643.00;401786.50;17N;Slater/Hurst
+Mid Bailey Run, OH;T3T2Ch7;4364627.00;401769.80;17N;Slater/Hurst
+Mid Bailey Run, OH;T4Ch2;4365641.00;401628.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T5Ch1;4365866.00;401360.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T5Ch3;4365772.00;401294.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T5Ch4;4365960.00;401217.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T5Ch6;4365997.00;401137.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T6Ch1;4366114.00;401047.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T6Ch2;4366115.00;400989.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T6Ch3;4366113.00;400980.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T6Ch4;4366066.00;401012.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T7Ch1;4366274.00;400643.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T7Ch2;4366346.00;400657.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T7Ch3;4366425.00;400732.00;17N;Slater/Hurst
+Mid Bailey Run, OH;T7Ch4;4366484.00;400774.00;17N;Slater/Hurst
+Indian Creek, OH;T1Ch1;4291226.00;361523.00;17N;Slater/Hurst
+Indian Creek, OH;T1Ch2;4291323.00;361500.00;17N;Slater/Hurst
+Indian Creek, OH;T2Ch1;4291432.00;361598.00;17N;Slater/Hurst
+Indian Creek, OH;T2Ch2;4291451.00;361595.00;17N;Slater/Hurst
+Indian Creek, OH;T2Ch3;4291510.00;361625.00;17N;Slater/Hurst
+Indian Creek, OH;T2Ch4;4291546.00;361686.00;17N;Slater/Hurst
+Indian Creek, OH;T2Ch5;4291536.00;361738.00;17N;Slater/Hurst
+Indian Creek, OH;T2Ch6;4291520.00;361751.00;17N;Slater/Hurst
+Indian Creek, OH;T3Ch1;4291642.00;361793.00;17N;Slater/Hurst
+Indian Creek, OH;T3Ch2;4291654.00;361775.00;17N;Slater/Hurst
+Indian Creek, OH;T3Ch3;4291664.00;361798.00;17N;Slater/Hurst
+Indian Creek, OH;T3Ch4;4291684.00;361830.00;17N;Slater/Hurst
+Indian Creek, OH;T3Ch5;4291690.00;361856.00;17N;Slater/Hurst
+Indian Creek, OH;T3Ch6.1;4291662.00;361889.00;17N;Slater/Hurst
+Indian Creek, OH;T3Ch7.2;4291639.00;361937.00;17N;Slater/Hurst
+Indian Creek, OH;T3Ch8;4291588.00;361971.00;17N;Slater/Hurst
+Indian Creek, OH;T3Ch9;4291561.00;361971.00;17N;Slater/Hurst
+Indian Creek, OH;T3Ch11;4291540.00;362032.00;17N;Slater/Hurst
+Indian Creek, OH;T4Ch1;4291753.00;362029.00;17N;Slater/Hurst
+Indian Creek, OH;T4Ch2;4291777.00;362033.00;17N;Slater/Hurst
+Indian Creek, OH;T4Ch3;4291803.00;362081.00;17N;Slater/Hurst
+Indian Creek, OH;T4Ch4;4291810.00;362186.00;17N;Slater/Hurst
+Indian Creek, OH;T4Ch5;4291839.00;362207.00;17N;Slater/Hurst
+Indian Creek, OH;T4Ch6;4291774.00;362210.00;17N;Slater/Hurst
+Indian Creek, OH;T1Ch1.1;4291238.00;361525.00;17N;Slater/Hurst
+Indian Creek, OH;T1Ch3;4291257.00;361594.00;17N;Slater/Hurst
+Indian Creek, OH;T5Ch1;4291021.00;361638.00;17N;Slater/Hurst
+Indian Creek, OH;T5Ch2;4291033.00;361640.00;17N;Slater/Hurst
+Indian Creek, OH;T5Ch3;4291049.00;361660.00;17N;Slater/Hurst
+Indian Creek, OH;T5Ch4;4291076.00;361655.00;17N;Slater/Hurst
+Indian Creek, OH;T5Ch5;4291039.00;361725.00;17N;Slater/Hurst
+Indian Creek, OH;T5Ch6;4291015.00;362033.00;17N;Slater/Hurst
+Indian Creek, OH;T5Ch7;4291005.00;362049.00;17N;Slater/Hurst
+Indian Creek, OH;T5Ch8;4290953.00;362229.00;17N;Slater/Hurst
+Indian Creek, OH;T5Ch9;4291078.00;362183.00;17N;Slater/Hurst
+Indian Creek, OH;T5Ch10;4291136.00;362193.00;17N;Slater/Hurst
